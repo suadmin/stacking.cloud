@@ -1,2 +1,2 @@
 # stacking.cloud
-Provider of Cloud Computing and IT-Outsourcing Services
+Cloud Computing Services Solutions Provider and IT-Outsourcing Services.
